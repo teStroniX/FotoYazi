@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace FotoYazi
 {
+	//GitHub Test İçin Yazılmıştır
 	public partial class MetinDuzenle : Form
 	{
 		public string s1;
